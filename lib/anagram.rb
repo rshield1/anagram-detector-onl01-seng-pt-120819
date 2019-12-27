@@ -6,7 +6,12 @@ class Anagram
   
   def initialization (word)
     @word = word
-    
+  end
+  
+  def match
+    @word.
+    puts "array of possible anagrams"
+  end
     
   
 end
