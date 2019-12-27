@@ -9,7 +9,7 @@ class Anagram
   end
   
   def match
-    @word.
+    @word
     puts "array of possible anagrams"
   end
     
